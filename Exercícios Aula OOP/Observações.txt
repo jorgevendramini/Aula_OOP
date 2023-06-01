@@ -1,0 +1,6 @@
+1- Objeto - Instância de uma Classe
+2- Classe - Projeto do Objeto
+3- Encapsulamento - Proteção dos Dados
+4- Polimorfismo - Comportamentos diferentes em instâncias diferentes
+5- Abstração - Escondendo dados irrelevantes e detalhes de implementação
+6- Herança - A propriedade de um Objeto é adquirida de outro Objeto
